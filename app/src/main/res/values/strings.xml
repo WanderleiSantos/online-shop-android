@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Online Shop Android</string>
+    <string name="intro_title">Unveiling a World \n<font color='#008b86'>Toys &amp; Accessories &amp; Foods</font> \nFor Your Pet</string>
+    <string name="intro_text">Browse the latest styles from top brands \nGet personalized recommendations \nEnjoy fast, free shipping</string>
+    <string name="intro_signup">Let\'s get started</string>
+    <string name="intro_signin">Already have an account? <font color="#008b86">Sign in</font></string>
+    <string name="intro_main_welcome">Welcome Back</string>
+    <string name="intro_main_user">Gaxes</string>
 </resources>

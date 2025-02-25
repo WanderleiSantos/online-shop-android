@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94699325980",
+    "project_id": "projectandroidshop180",
+    "storage_bucket": "projectandroidshop180.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94699325980:android:9759bb16094875fdd3add9",
+        "android_client_info": {
+          "package_name": "com.wanderlei.onlineshopandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnp6j5bSYW8umxpXaoo05ZP6sddR3JyQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
